@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.guatex.ronald.beans.E_Usuario;
 import com.guatex.ronald.dao.D_Usuario;
+import com.guatex.ronald.models.E_Usuario;
 
 @RestController
 public class C_Usuario {

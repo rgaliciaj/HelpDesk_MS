@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.LinkedList;
 import java.util.List;
 
-import com.guatex.ronald.beans.E_Usuario;
+import com.guatex.ronald.models.E_Usuario;
 import com.guatex.ronald.utils.Conexion;
 
 public class D_Usuario {

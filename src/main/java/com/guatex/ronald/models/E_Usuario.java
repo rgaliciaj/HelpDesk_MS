@@ -1,4 +1,4 @@
-package com.guatex.ronald.beans;
+package com.guatex.ronald.models;
 
 public class E_Usuario {
 	private String idUser = "";
