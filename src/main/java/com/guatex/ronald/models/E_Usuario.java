@@ -15,6 +15,12 @@ public class E_Usuario {
 		this.password = password;
 	}
 	
+	public E_Usuario(String user, String password) {
+		this.user = user;
+		this.password = password;
+	}
+	
+	
 	public String getIdUser() {
 		return idUser;
 	}
